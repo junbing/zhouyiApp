@@ -50,7 +50,14 @@
 可以直接在git上下载项目源码。
 或者通过git命令下载
 #git命令下载
-git clone https://github.com/jerry9022/LitAdmin
+git clone 第一步： 先安装node v8.2.1环境，可以用nvm安装，支持多版本切换
+可参看链接：https://fengmk2.com/blog/2014/03/node-env-and-faster-npm.html
+
+第二步：下载项目
+可以直接在git上下载项目源码。
+或者通过git命令下载
+#git命令下载
+git clone https://github.com/junbing/zhouyiApp
 
 ```
 
